@@ -1,0 +1,3 @@
+eksctl get-token --cluster my-cluster --kubeconfig ~/.kube/config
+
+
