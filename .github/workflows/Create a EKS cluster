@@ -1,0 +1,3 @@
+eksctl create cluster --name my-cluster --region us-west-2 --vpc-config subnet=your-subnet-id,public-access=true
+
+
